@@ -41,8 +41,12 @@ Exhibiting as part of the 59th Venice Art Biennale exhibition: The Road of Faith
 
 
 Created by Connor YS Matla & Jie Guan
+
 Produced by Lunarverse Lab Inc.
+
 https://www.lunarverselab.com/
+
 https://connorysmatla.art/
+
 https://jieguann.format.com/
 
