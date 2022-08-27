@@ -1,7 +1,8 @@
 # ODE
-![IMG_7186_00000 2](https://user-images.githubusercontent.com/101434842/186802948-95478cc5-26d8-4dca-98f0-9544700ab001.png)
+![Group 30](https://user-images.githubusercontent.com/101434842/187007138-85f87182-019e-4a04-9365-dac929c93b84.png)
 
-An ongoing artistic exploration, involving the living minds and cross-disciplinary perspectives of young artists and researchers, in creative conversation with concepts of virtuality and virtual state of being. A composition of different artificial neural networks, generative systems and virtual technology.
+An ongoing artistic exploration, by the living minds and perspectives of young artists and researchers, in creative conversation with concepts of virtuality and virtual state of being. Involving an experimental composition of different artificial neural networks, generative systems and virtual technology.
+
 
 
 Ode to the amour of our bodily senses and the realities we perceive through them. An entanglement between realities and dreams, physical body and metaphysical being, the limits of life and infinity of possibilities, of humans and beyond…
