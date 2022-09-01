@@ -1,5 +1,4 @@
 # ODE
-![Group 30](https://user-images.githubusercontent.com/101434842/187007138-85f87182-019e-4a04-9365-dac929c93b84.png)
 
 An ongoing artistic exploration, by the living minds and perspectives of young artists and researchers, in creative conversation with concepts of virtuality and virtual state of being. Involving an experimental composition of different artificial neural networks, generative systems and virtual technology.
 
