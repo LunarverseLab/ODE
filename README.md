@@ -1,8 +1,8 @@
 # ODE
 
-An ongoing artistic exploration, by the living minds and perspectives of young artists and researchers, in creative conversation with concepts of virtuality and virtual state of being. Involving an experimental composition of different artificial neural networks, generative systems and virtual technology.
+An ongoing artistic exploration, by the living minds and perspectives of young artists and researchers, in creative conversation with the machine, with AI and virtual state of being. Involving an experimental composition of different artificial neural networks, generative systems and virtual technology.
 
-
+![ODE monochromatic stills 4-min](https://user-images.githubusercontent.com/101434842/189455089-4a345b10-7274-4b64-af39-6831b9d7efcc.png)
 
 Ode to the amour of our bodily senses and the realities we perceive through them. An entanglement between realities and dreams, physical body and metaphysical being, the limits of life and infinity of possibilities, of humans and beyond…
 
