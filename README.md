@@ -12,8 +12,10 @@ ________________________________________________________________________________
 ## AI
 Palettes generated and painted by AI, based on an ancient romance imagined and written by human, transcribed into language perceivable to machine, to hallucinate this dreamy encounter between a man and a goddess, a disparate match destined to part ways...
 
-A machine dreams, in repeat, of a love never meant to be
-A human dreams, even disillusioned, still chooses to love
+
+A machine dream, in repeat, of a love never meant to be
+
+A human dream, ever disillusioned, still chooses to believe
 
 _________________________________________________________________________________________________________________________________________________________
 
